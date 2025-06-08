@@ -23,6 +23,7 @@ plant_type = st.selectbox("Select the crop to detect:", ["Eggplant", "Chili"])
 if plant_type == "Eggplant":
     model_path = "best_eggplant_model_yolo11s_v5.pt"
     metadata = Eggplant_Cause_and_Remedy
+else:
     model_path = "chili_detection_3.pt"
     metadata = Chili_Cause_and_Remedy
 
@@ -74,6 +75,6 @@ if uploaded_file is not None:
             st.write(f"🧪 **Cause:** {cause}")
             st.write(f"💡 **Remedy:** {remedy}")
 
-        st.image(cv2.cvtColor(img_copy, cv2.COLOR_BGR2RGB), caption="Detection Result", use_column_width=True)
+        st.image(cv2.cvtColor(img_copy, cv2.COLOR_BGR2RGB), caption="Detection Result", use_container_width=True)
     else:
         st.warning("No disease or pest detected. Try another image.")
