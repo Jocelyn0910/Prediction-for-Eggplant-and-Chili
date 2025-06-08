@@ -1,0 +1,47 @@
+{
+  "Aphids": {
+    "label": "Small green or black insects (Aphids)",
+    "cause": "Aphids feed by sucking sap from young leaves and stems, leaving behind sticky honeydew that attracts ants and promotes mold growth.",
+    "remedy": "Spray affected plants with a strong jet of water to dislodge aphids. Apply neem oil or insecticidal soap every 5–7 days during early infestation. Remove nearby weeds that can host aphids."
+  },
+  "Cercospora leaf spot": {
+    "label": "Brown circular spots on leaves (Cercospora)",
+    "cause": "Caused by the fungus *Cercospora capsici*, this disease thrives in warm, humid conditions with poor air circulation.",
+    "remedy": "Prune lower leaves to improve airflow and avoid overhead watering. Remove and destroy infected leaves. Apply a copper-based fungicide weekly during wet seasons."
+  },
+  "Chili veinal mottle virus (ChiVMV)": {
+    "label": "Vein mottle patterns (ChiVMV)",
+    "cause": "Transmitted by aphids like the green peach aphid and cotton melon aphid. Causes yellow mottling and distortion of leaves.",
+    "remedy": "Use reflective mulches to deter aphids. Remove infected plants immediately. Control aphid populations with insecticidal soap or yellow sticky traps."
+  },
+  "Cucumber mosaic virus (CMV)": {
+    "label": "Mosaic leaves and stunted growth (CMV)",
+    "cause": "Spread by over 80 aphid species. Leads to mottled, curled leaves and reduced fruit yield.",
+    "remedy": "Start with certified virus-free seeds. Eliminate nearby weeds that can host aphids. Use insect mesh to protect young plants and apply neem oil to control aphids."
+  },
+  "Wilt": {
+    "label": "Sudden plant drooping (Wilt)",
+    "cause": "Caused by fungal (*Fusarium oxysporum*) or bacterial (*Ralstonia solanacearum*) infections in the soil, blocking water flow in the plant.",
+    "remedy": "Remove and burn infected plants. Solarize soil before planting new crops. Practice 2–3 year crop rotation and avoid waterlogging the soil. Use disease-resistant chili varieties if available."
+  },
+  "Leaf miner": {
+    "label": "Winding trails on leaves (Leaf Miner)",
+    "cause": "Larvae of small flies that tunnel between leaf layers, usually during humid periods or near host crops like beans.",
+    "remedy": "Inspect leaves regularly and remove infected ones. Spray neem oil or spinosad early in the morning. Cover young plants with fine mesh netting to prevent adult flies from laying eggs."
+  },
+  "Red spider mite": {
+    "label": "Tiny red specks and yellowing leaves (Red Spider Mite)",
+    "cause": "Thrives in hot, dry conditions. These mites feed on the undersides of leaves, causing speckled yellow spots and webbing.",
+    "remedy": "Spray with water to wash off mites. Use insecticidal soap or miticides like abamectin on both sides of the leaves. Keep humidity high to slow their spread."
+  },
+  "Silverleaf whitefly": {
+    "label": "Tiny white flying insects (Whitefly)",
+    "cause": "Feeds on plant sap and transmits begomoviruses, which reduce yield and stunt growth.",
+    "remedy": "Remove and destroy infested crop debris. Use yellow sticky traps to monitor adults. Spray neem oil or insecticidal soap weekly. Avoid planting too densely to reduce breeding sites."
+  },
+  "Healthy": {
+    "label": "Healthy chili leaf",
+    "cause": "The leaf appears healthy and free from pests or diseases.",
+    "remedy": "No treatment needed. Maintain proper spacing, watering, and regular monitoring to keep your chili plants healthy."
+  }
+}

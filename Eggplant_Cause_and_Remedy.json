@@ -1,0 +1,40 @@
+{
+  "Aphids": {
+    "label": "Small green or black insects (Aphids)",
+    "cause": "Aphids use their piercing-sucking mouthparts to extract sap from eggplant leaves, weakening the plant and curling the leaves.",
+    "remedy": "Spray the infected eggplant leaves with a strong stream of water to dislodge aphids, and apply neem oil or insecticidal soap as needed."
+  },
+  "Cercospora leaf spot": {
+    "label": "Leaf spots (Cercospora leaf spot)",
+    "cause": "Caused by the fungi Cercospora melongenae and Cercospora beticola, which thrive in warm, wet conditions and infect eggplant leaves.",
+    "remedy": "Remove infected leaves, avoid overhead watering, and plant tolerant or resistant varieties. Apply fungicide if needed."
+  },
+  "Leaf wilt": {
+    "label": "Drooping or wilting leaf (Leaf Wilt)",
+    "cause": "A soil-borne fungus Verticillium dahliae infects roots and blocks water flow in the plant.",
+    "remedy": "Practice crop rotation, remove infected plants, and apply soil solarization during the off-season to reduce fungal spores."
+  },
+  "Phomopsis blight": {
+    "label": "Blight with dark sunken spots (Phomopsis Blight)",
+    "cause": "Caused by the fungus Phomopsis vexans, this disease spreads through splashing water and infects stems and fruit.",
+    "remedy": "Use disease-resistant eggplant varieties, avoid overhead irrigation, and apply a fungicide as needed. Remove and destroy infected plant parts."
+  },
+  "Powdery mildew": {
+    "label": "White powdery spots (Powdery Mildew)",
+    "cause": "Caused by fungi of the genus Oidium, powdery mildew forms white patches on leaves and thrives in high humidity and low airflow.",
+    "remedy": "Spray manure tea or horsetail decoction. Improve plant spacing and airflow. Use sulfur-based fungicides if infection spreads."
+  },
+  "Spider mite": {
+    "label": "Tiny red or yellow mites with webbing (Two-Spotted Spider Mite)",
+    "cause": "Spider mites multiply rapidly during hot, dry weather and feed on leaves, causing yellow spots and webbing.",
+    "remedy": "Spray infected plants with water to knock mites off the leaves. Then apply insecticidal soap thoroughly, repeating every 2–3 days to cover newly hatched mites."
+  },
+  "Healthy": {
+    "label": "Healthy eggplant leaf",
+    "cause": "The leaf appears free of visible pests or diseases.",
+    "remedy": "No action needed. Maintain regular inspection and proper care to keep plants healthy."
+  }
+}
+
+
+
