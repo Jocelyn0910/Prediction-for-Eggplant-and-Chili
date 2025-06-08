@@ -37,7 +37,7 @@ if uploaded_file is not None:
     img = cv2.imdecode(np_img, cv2.IMREAD_COLOR)
     img_copy = img.copy()
 
-    st.image(cv2.cvtColor(img, cv2.COLOR_BGR2RGB), caption="Uploaded Image", use_column_width=True)
+    st.image(cv2.cvtColor(img, cv2.COLOR_BGR2RGB), caption="Uploaded Image", use_container_width=True)
 
     # Inference
     st.subheader("🔍 Prediction Result")
